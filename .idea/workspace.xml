@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a3b6cece-4ed8-4904-ac09-af72631e2858" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +24,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "feature/calculator",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/własne_projekty/java/calculator/src/Main.java"
   }
